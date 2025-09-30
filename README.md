@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavin P</h1>
-<h3>**English → Tamil Transformer (Attention Is All You Need)**</h3>
+<h2>English → Tamil Transformer (Attention Is All You Need)</h2>
 
 * I have reimplemented the **"Attention Is All You Need"** paper with a Transformer architecture for English → Tamil Neural Machine Translation.
 * Trained on a dataset of **1.18 lakh text pairs**.
