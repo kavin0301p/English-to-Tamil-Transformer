@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kavin P</h1>
-<h3>
-• I have reimplemented "ATTENTION IS ALL YOU NEED" paper with Transformer Architecture for English to Tamil Neural Machine translation. 
-<br>
-  
-• I have used a dataset of 1.18 Lakh texts for training. 
+### English → Tamil Transformer (Attention Is All You Need)
 
- 
-• Performed hyperparameter tuning with two different configurations of my model, by achieving a lowest Cross Entropy loss of 3.3304 
+* I have reimplemented the **"Attention Is All You Need"** paper with a Transformer architecture for English → Tamil Neural Machine Translation.
+* Trained on a dataset of **1.18 lakh text pairs**.
+* Performed **hyperparameter tuning** with two different configurations, achieving a lowest **Cross-Entropy Loss of 3.3304**.
 
+#### 🔗 Model Weights
 
-• You can find the trained model weights for configuration 1 : https://drive.google.com/drive/folders/1RkUaPYo096Y2b_ESYrLmyhMggdNL0Jq1?usp=drive_link 
+* **Configuration 1:** [Google Drive Link](https://drive.google.com/drive/folders/1RkUaPYo096Y2b_ESYrLmyhMggdNL0Jq1?usp=drive_link)
+* **Configuration 2:** *(link coming soon)*
 
-
-• You can find the trained model weights for configuration 2 :
-
-</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
