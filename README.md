@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavin P</h1>
+<h1 align="center">Hi 👋, I'm Kavin </h1>
 <h2>English → Tamil Transformer : ATTENTION IS ALL YOU NEED PAPER REIMPLEMENTATION</h2>
 
 * I have reimplemented the **"Attention Is All You Need"** paper with a Transformer architecture for English → Tamil Neural Machine Translation.
