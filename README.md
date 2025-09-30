@@ -8,7 +8,8 @@
 #### 🔗 Model Weights
 
 * **Configuration 1:** [Google Drive Link](https://drive.google.com/drive/folders/1RkUaPYo096Y2b_ESYrLmyhMggdNL0Jq1?usp=drive_link)
-* **Configuration 2:** *(link coming soon)*
+* **Configuration 2:** [Google Drive Link_1](https://drive.google.com/drive/u/0/folders/10dsHP0mTvm7CAgeNvSDIynZtSsysLH6H)
+                       [Google Drive Link_2](https://drive.google.com/drive/u/4/folders/1hgAW_0ThNHjYj1G52vHp88TI5cgBlCM8)
 
 
 <h3 align="left">Connect with me:</h3>
