@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kavin P</h1>
-<h3 align="center">* I have reimplemented "ATTENTION IS ALL YOU NEED" paper with Transformer Architecture for English to Tamil Neural Machine translation. * I have used a dataset of 1.18 Lakh texts for training. * Performed hyperparameter tuning with two different configurations of my model, by achieving a lowest Cross Entropy loss of 3.3304 * You can find the trained model weights for configuration 1 : https://drive.google.com/drive/folders/1RkUaPYo096Y2b_ESYrLmyhMggdNL0Jq1?usp=drive_link * You can find the trained model weights for configuration 2 :</h3>
+<h3 align="center">
+• I have reimplemented "ATTENTION IS ALL YOU NEED" paper with Transformer Architecture for English to Tamil Neural Machine translation. 
+• I have used a dataset of 1.18 Lakh texts for training. 
+• Performed hyperparameter tuning with two different configurations of my model, by achieving a lowest Cross Entropy loss of 3.3304 
+• You can find the trained model weights for configuration 1 : https://drive.google.com/drive/folders/1RkUaPYo096Y2b_ESYrLmyhMggdNL0Jq1?usp=drive_link 
+• You can find the trained model weights for configuration 2 : </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
