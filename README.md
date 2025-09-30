@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavin P</h1>
-<h3 align="center">
+<h3>
 • I have reimplemented "ATTENTION IS ALL YOU NEED" paper with Transformer Architecture for English to Tamil Neural Machine translation. 
   
 • I have used a dataset of 1.18 Lakh texts for training. 
